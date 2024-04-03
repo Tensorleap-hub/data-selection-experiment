@@ -6,7 +6,12 @@ authors = ["ranhomri <ran.homri@tensorleap.ai>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = ">=3.8, <3.11"
+python = ">=3.9, <3.11"
+code-loader-helpers = "^1.0.10"
+code-loader = "^1.0.39"
+pyyaml = "^6.0.1"
+scipy = "^1.13.0"
+scikit-learn = "^1.4.1.post1"
 
 
 [build-system]
