@@ -1,0 +1,15 @@
+train_size: 40000
+val_size: 10000
+test_size: 10000
+
+LABELS_NAMES:
+  - airplane
+  - automobile
+  - bird
+  - cat
+  - deer
+  - dog
+  - frog
+  - horse
+  - ship
+  - truck
